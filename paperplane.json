@@ -11,8 +11,7 @@
   "directory": "chars/char0",
   "image": "Covers/char0.png",
   "pmx": "雅努斯(Janus) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190338,
@@ -26,8 +25,7 @@
   "directory": "chars/char11",
   "image": "Covers/char11.png",
   "pmx": "雅珂达 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190339,
@@ -41,8 +39,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Bikini_LongHair_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190340,
@@ -56,8 +53,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "雷根斯堡.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190341,
@@ -71,8 +67,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "Raiden Shogun bunny (Azusa89) 1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190342,
@@ -86,8 +81,7 @@
   "directory": "chars/char51",
   "image": "Covers/char51.png",
   "pmx": "雷电影SM.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190343,
@@ -101,8 +95,7 @@
   "directory": "chars/char6",
   "image": "Covers/char6.png",
   "pmx": "宇宙之眼 雷电影内裙包臀 散发 高跟鞋1.02.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190344,
@@ -116,8 +109,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "露帕.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 190345,
@@ -131,7 +123,6 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "Lucy(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  }
 ]

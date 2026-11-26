@@ -11,8 +11,7 @@
   "directory": "chars/char1",
   "image": "Covers/char1.png",
   "pmx": "雅努斯(dancer) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191451,
@@ -26,8 +25,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Bikini_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191452,
@@ -41,8 +39,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Bikini_Pigtails_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191453,
@@ -56,8 +53,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Bunny_LongHair_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191454,
@@ -71,8 +67,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Bunny_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191455,
@@ -86,8 +81,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Bunny_Pigtails_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191456,
@@ -101,8 +95,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Roomwear_LongHair_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191457,
@@ -116,8 +109,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Roomwear_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191458,
@@ -131,8 +123,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Lamy_Roomwear_Pigtails_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191459,
@@ -146,8 +137,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "Raiden Boss R-18.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191460,
@@ -161,8 +151,7 @@
   "directory": "chars/char51",
   "image": "Covers/char51.png",
   "pmx": "雷电影高跟鞋.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191461,
@@ -176,8 +165,7 @@
   "directory": "chars/char51",
   "image": "Covers/char51.png",
   "pmx": "雷电影高跟鞋裸腿.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191462,
@@ -191,8 +179,7 @@
   "directory": "chars/char51",
   "image": "Covers/char51.png",
   "pmx": "雷电影高跟鞋裸腿无光泽版.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  },
  {
   "id": 191463,
@@ -206,7 +193,6 @@
   "directory": "chars/char51",
   "image": "Covers/char51.png",
   "pmx": "雷电影高跟鞋裸腿无光泽版，无手臂丝袜版.pmx",
-  "base": "https://carlutic.github.io/paperplane_32/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_32/"
  }
 ]
